@@ -36,7 +36,8 @@
 		<module>hutool-socket</module>
 		<module>hutool-jwt</module>
 		<module>hutool-ai</module>
-	</modules>
+        <module>hutool-my-test</module>
+    </modules>
 
 	<properties>
 		<project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
